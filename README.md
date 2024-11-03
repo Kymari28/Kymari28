@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World 👋
 
 <!--
 **Kymari28/Kymari28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
